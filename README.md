@@ -34,7 +34,7 @@ Other methods for accessing data through the web service are described at the MO
 
 ## Prerequisites
 
-R (3.x recommended). R libraries: [MODISTools](MODISTools.tar.gz), ggplot2, scales, tidyr
+R (3.x recommended). R libraries: [MODISTools](MODISTools.tar), ggplot2, scales, tidyr
 
 ## Procedure
 
