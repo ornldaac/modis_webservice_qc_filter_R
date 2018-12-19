@@ -1,3 +1,7 @@
+### NOTE: 
+This project is no longer being maintained. Users are encouraged to access the MODIS/VIIRS web service using the REST API. The SOAP web service will be deprecated in the near future. This tutorial is implemented for the REST service in another repository:
+[https://github.com/ornldaac/modis_restservice_qc_filter_R](https://github.com/ornldaac/modis_restservice_qc_filter_R)
+
 # Access the MODIS web service and perform quality filtering using R
 
 *Author: ORNL DAAC*  
